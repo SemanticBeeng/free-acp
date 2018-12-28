@@ -1,7 +1,7 @@
 val ScalaVer    = "2.12.1"
 val ThisVersion = "0.1.0"
 
-val Cats          = "0.8.1"
+val Cats          = "1.4.0"
 val Shapeless     = "2.3.2"
 val ScalaCheck    = "1.13.4"
 val KindProjector = "0.9.3"
